@@ -3,7 +3,7 @@ Llama2 unofficial api reverse engineered!
 This repository contains Llama2 70b reverse engineered api 
 
 # how to use? 
-Using Llama2 reversed engineered api is very easy 
+Using Llama2 reversed engineered api is very easy follow these steps! 
 
 # 1st join our discord 
 https://discord.gg/BsunT6jhT
@@ -11,7 +11,7 @@ https://discord.gg/BsunT6jhT
 - Python 3.8 or higher
 - Windows, macOS, or Linux operating system
 
-  ## uses!
+  ## 2nd use!
 ```import requests
 import json
 
